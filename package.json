@@ -1,6 +1,6 @@
 {
   "name": "react-native-serkanls",
-  "version": "0.1.1",
+  "version": "0.1.8",
   "description": "serkanls first package",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
